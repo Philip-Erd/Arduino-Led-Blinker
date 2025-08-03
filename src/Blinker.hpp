@@ -4,7 +4,7 @@
 #include "Arduino.h"
 #include "FastLED.h"
 
-// predifined Patterns to use
+// predefined Patterns to use
 #define BLINKER_PATTERN_FULL_BRIGHTNESS "z"
 #define BLINKER_PATTERN_HALF_BRIGHTNESS "m"
 #define BLINKER_PATTERN_OFF "a"
